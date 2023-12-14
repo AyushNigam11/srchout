@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "ayush",
+      "name": "ayush",
+      "password": "ayush",
+      "email": "ayush@gmail.com",
+      "phone": "ayush",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "srchout",
+      "name": "Srchout",
+      "password": "srchout",
+      "email": "srch@gmail.com",
+      "phone": "89898989",
+      "country": "india",
+      "address": "",
+      "gender": "male"
+    }
+  ]
+}
